@@ -1,4 +1,4 @@
-#Curriculum-Vitae
+#Curriculum Vitae
 
 <!DOCTYPE html>
 <html lang="en">
